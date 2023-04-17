@@ -6,18 +6,15 @@
 
 
 
-function casuale() {
-    num = Math.round(Math.random() *5+1);
-    document.getElementById("casuale2").innerHTML = num;
-
-}
-
-function casuale() {
+function casuale1() {
     num = Math.round(Math.random() *5+1);
     document.getElementById("casuale1").innerHTML = num;
 
 }
 
+function casuale2() {
+    num = Math.round(Math.random() *5+1);
+    document.getElementById("casuale2").innerHTML = num;
 
-
+}
 
