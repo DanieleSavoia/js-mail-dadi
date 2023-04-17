@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: green;
+    display: flex;
+}
+
+h1 {font-size: 80px}
+
+.container {max-width: 1000px;
+background-color: salmon;
+margin: auto;
+height: 100%;}
+
